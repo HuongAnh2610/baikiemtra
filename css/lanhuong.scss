@@ -1,0 +1,26 @@
+.main{
+	width:100%;
+	height:auto;
+	.item-accordion{
+		text-align:center;
+		width:25%;
+		margin:auto;
+		.header{
+			background:#00FF99;
+			margin-top:20px;
+			h3{
+				font-size:25px;
+				padding:5% 6%;
+				color:#333fff
+			}
+			.content{
+				padding: 10px 12px;
+				border: 1px #212121 solid;
+				background:#ffffff;
+
+			}
+
+		}
+
+	}
+}

@@ -1,0 +1,20 @@
+.main {
+  width: 100%;
+  height: auto; }
+  .main .item-accordion {
+    text-align: center;
+    width: 25%;
+    margin: auto; }
+    .main .item-accordion .header {
+      background: #00FF99;
+      margin-top: 20px; }
+      .main .item-accordion .header h3 {
+        font-size: 25px;
+        padding: 5% 6%;
+        color: #333fff; }
+      .main .item-accordion .header .content {
+        padding: 10px 12px;
+        border: 1px #212121 solid;
+        background: #ffffff; }
+
+/*# sourceMappingURL=lanhuong.css.map */
